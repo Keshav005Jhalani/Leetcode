@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
