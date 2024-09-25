@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3533-snake-in-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3533-snake-in-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3533-snake-in-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
