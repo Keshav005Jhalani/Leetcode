@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0724-find-pivot-index) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
