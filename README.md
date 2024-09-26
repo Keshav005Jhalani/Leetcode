@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0001-two-sum) |
+| [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Sliding Window
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
