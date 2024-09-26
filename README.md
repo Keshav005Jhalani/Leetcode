@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0926-find-and-replace-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0001-two-sum) |
 | [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
+| [0926-find-and-replace-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0926-find-and-replace-pattern) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
+| [0926-find-and-replace-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
