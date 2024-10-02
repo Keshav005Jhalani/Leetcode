@@ -18,8 +18,7 @@ public:
         vector<string> ans;
         string normalisedPattern = normalise(pattern);
         for(int i=0;i<=words.size()-1;i++){
-            string str=normalise(words[i]);
-            if(str.compare(normalisedPattern)==0){
+            if(normalise(words[i]).compare(normalisedPattern)==0){
                 ans.push_back(words[i]);
             }
         }
