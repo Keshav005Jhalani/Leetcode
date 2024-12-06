@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
 | ------- |
