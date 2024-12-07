@@ -10,7 +10,7 @@ public:
         if(hash[i]>hash[max_element]){
         max_element=i;
         }
-        //placing most friquient
+        //placing most frequent
         string ans(s.size(), ' ');
         int i=0;
         while(i<=s.size()-1 && hash[max_element]){
