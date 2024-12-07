@@ -7,9 +7,7 @@ public:
         //find max cauz we need to place max first inorder to check if arrangement possible
         int max_element=0;
         for(int i=0;i<=hash.size()-1;i++) 
-        if(hash[i]>hash[max_element]){
-        max_element=i;
-        }
+        if(hash[i]>hash[max_element]) max_element=i;
         //placing most frequent
         string ans(s.size(), ' ');
         int i=0;
