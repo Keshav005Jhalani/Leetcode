@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0204-count-primes) |
+| [0539-minimum-time-difference](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0204-count-primes) |
+| [0539-minimum-time-difference](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2556-convert-the-temperature](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Two Pointers
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0778-reorganize-string) |
