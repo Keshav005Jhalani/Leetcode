@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://imp->i par hum place karenge append and j for traversal here
     string removeDuplicates(string s, int k) {
         vector<int> count(s.size());
         int i=0,j=0;
