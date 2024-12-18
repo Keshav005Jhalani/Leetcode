@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0778-reorganize-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
