@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0054-spiral-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
