@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2556-convert-the-temperature](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
