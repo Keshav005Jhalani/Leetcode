@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
