@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0048-rotate-image) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0179-largest-number) |
