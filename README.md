@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0049-group-anagrams) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0217-contains-duplicate) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0054-spiral-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
