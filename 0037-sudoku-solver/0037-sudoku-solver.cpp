@@ -16,7 +16,7 @@ public:
                     for (char digit = '1'; digit <= '9'; digit++) {
                         if (isSafe(board, i, j, digit)) {
                             board[i][j] = digit;
-                            if (solve(board)) return true;
+                            if (solve(board)==true) return true;
                             board[i][j] = '.';
                         }
                     }
