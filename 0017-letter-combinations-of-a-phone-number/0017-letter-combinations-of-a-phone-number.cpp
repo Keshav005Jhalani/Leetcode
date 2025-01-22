@@ -11,7 +11,7 @@ public:
         {'9',"wxyz"}
     };
 
-    void solve(vector<string> &ans, string &digits,string output="",int i=0){
+    void solve(vector<string> &ans, string digits,string output="",int i=0){
         if(digits.size()==0) return;
         if(i==digits.size()){
             ans.push_back(output);
