@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0217-contains-duplicate) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String Matching
 |  |
@@ -226,4 +229,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
