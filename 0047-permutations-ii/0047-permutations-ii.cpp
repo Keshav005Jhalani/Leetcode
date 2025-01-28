@@ -5,10 +5,10 @@ public:
             ans.push_back(nums);
             return;
         }
-        unordered_set<int> hash; 
+        unordered_map<int, bool> hash; 
         for (int j = i; j < nums.size(); j++) {
-            if (hash.count(nums[j])) continue; 
-            hash.insert(nums[j]);
+            if (hash[nums[j]]) continue; 
+            hash[nums[j]] = true;
             swap(nums[i], nums[j]);
             solve(nums, ans, i + 1);
             swap(nums[i], nums[j]); 
