@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0039-combination-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0792-binary-search) |
