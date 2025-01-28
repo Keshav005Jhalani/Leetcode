@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0283-move-zeroes) |
+| [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0053-maximum-subarray) |
+| [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
@@ -237,8 +239,17 @@ A collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
+| [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
