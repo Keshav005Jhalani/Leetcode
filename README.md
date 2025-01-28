@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0907-koko-eating-bananas) |
