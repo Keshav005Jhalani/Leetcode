@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1758-distribute-repeating-integers](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0053-maximum-subarray) |
 | [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1758-distribute-repeating-integers](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0077-combinations](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0079-word-search) |
 | [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [1758-distribute-repeating-integers](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,8 +255,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [1758-distribute-repeating-integers](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Bitmask
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [1758-distribute-repeating-integers](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1758-distribute-repeating-integers) |
 <!---LeetCode Topics End-->
