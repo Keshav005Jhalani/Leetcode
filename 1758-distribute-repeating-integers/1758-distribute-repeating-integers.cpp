@@ -1,12 +1,12 @@
 class Solution {
 public:
-    bool solve(vector<int>& nums, vector<int>& quantity,vector<int> &hashMap,int i){
+    bool solve(vector<int>& nums, vector<int>& quantity,vector<int> &count,int i){
         if(i==quantity.size()) return true;
-        for(int j=0;j<=hashMap.size()-1;j++){
-            if(hashMap[j]>=quantity[i]){
-                hashMap[j]-=quantity[i];
-                if(solve(nums,quantity,hashMap,i+1)) return true;
-                hashMap[j]+=quantity[i];
+        for(int j=0;j<=count.size()-1;j++){
+            if(count[j]>=quantity[i]){
+                count[j]-=quantity[i];
+                if(solve(nums,quantity,count,i+1)) return true;
+                count[j]+=quantity[i];
             }
         }
         return false;
