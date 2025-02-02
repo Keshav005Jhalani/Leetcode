@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0283-move-zeroes) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
