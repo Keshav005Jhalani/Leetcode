@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
