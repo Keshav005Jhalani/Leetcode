@@ -24,7 +24,6 @@ public:
                 if (childTail) {
                     childTail->next = temp;
                     if (temp) temp->prev = childTail;
-                    tail = childTail;
                 }
             } 
             tail = it;
