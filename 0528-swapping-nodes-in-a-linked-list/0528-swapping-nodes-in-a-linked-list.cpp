@@ -29,18 +29,18 @@ public:
         if(head==NULL||head->next==NULL) return head;
         
         //case 2
-        if(n==2){
+        else if(n==2){
             ListNode*headNext=head->next;
             head->next=NULL;
             headNext->next=head;
-            return headNext;
+            head=headNext;
         }
 
         //case 3
-        if(lpos==rpos) return head;
+        else if(lpos==rpos) return head;
 
         //case 4
-        if(k==1||k==n){
+        else if(k==1||k==n){
             if(rpos-lpos<0) swap(lpos,rpos);
             ListNode*left,*leftFor,*right,*rightPrev;
             left=head;
@@ -53,11 +53,11 @@ public:
             left->next=NULL;
             right->next=leftFor;
             rightPrev->next=left;
-            return right;
+            head=right;
         }
 
         //case 5
-        if(rpos-lpos==1||lpos-rpos==1){
+        else if(rpos-lpos==1||lpos-rpos==1){
             if(rpos-lpos<0) swap(lpos,rpos);
             ListNode*left,*leftPrev,*right,*rightFor;
             left=head;
@@ -70,7 +70,6 @@ public:
             right->next=left;
             leftPrev->next=right;
             left->next=rightFor;
-            return head;
         }
 
         else{ //general case if above all fails
@@ -91,8 +90,6 @@ public:
             right->next=leftFor;
             rightPrev->next=left;
             left->next=rightFor;
-            return head;
-
         }
 
         return head;
