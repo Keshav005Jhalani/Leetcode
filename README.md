@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3533-snake-in-matrix](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Trie
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0725-split-linked-list-in-parts](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
 |  |
