@@ -16,15 +16,17 @@ public:
         ListNode*reader=head->next;
         ListNode*writerPrev=head;
         while(reader!=NULL){
-            while(reader->val!=0){
+            if(reader->val!=0){
                 sum+=reader->val;
-                reader=reader->next;
             }
+            else{
+
             writer->val=sum;
             writerPrev=writer;
             writer=writer->next;
-            reader=reader->next;
             sum=0;
+            }
+            reader=reader->next;
         }
         writerPrev->next=NULL;
         return head;
