@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Keshav005Jhalani/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Math
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0725-split-linked-list-in-parts](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Keshav005Jhalani/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
