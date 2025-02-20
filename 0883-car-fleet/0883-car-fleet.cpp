@@ -8,7 +8,7 @@ public:
     };
 
     static bool myComp(Car &a, Car &b) {
-        return a.pos > b.pos;
+        return a.pos < b.pos;
     }
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
         int n = position.size();
@@ -21,8 +21,8 @@ public:
         stack<float> st; 
         for (auto car : cars) {
             float time = (target - car.pos) / (float)car.speed;
-            if (!st.empty() && time <= st.top()) {
-                continue; 
+            while(!st.empty()&&time >= st.top()) {
+                st.pop();
             }   
             st.push(time);
         }
