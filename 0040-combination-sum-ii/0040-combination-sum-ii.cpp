@@ -12,7 +12,7 @@ public:
                 solve(candidates, ans, target, sum + candidates[j], nums, j+1);
                 nums.pop_back();
             }
-        }
+        };
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
